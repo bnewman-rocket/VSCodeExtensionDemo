@@ -1,0 +1,1 @@
+PRODUCT_ID     |PRODUCT_NAME                                    |COST         |QUANTITY|TOTAL_COST   |TYPE|DATE    |TIME
