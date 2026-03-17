@@ -3,6 +3,8 @@
 
        author. Ben Newman
 
+       *> This is a comment
+
        environment division.
        input-output section.
        file-control.
