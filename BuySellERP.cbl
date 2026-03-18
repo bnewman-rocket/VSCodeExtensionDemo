@@ -17,7 +17,7 @@
            select inventory
                assign to "inventory.dat"
                organization is line sequential.
-
+       *> This is a comment
        data division.
        file section.
        fd products.
